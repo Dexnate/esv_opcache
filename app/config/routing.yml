@@ -1,0 +1,8 @@
+op_cache:
+    resource: "@OpCacheBundle/Controller/"
+    type:     annotation
+    prefix:   /opcache
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
